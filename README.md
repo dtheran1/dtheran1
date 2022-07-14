@@ -9,7 +9,9 @@ Hi I'm Daniel, Frontend developer with experience in developing multiple project
 *   🌍  I'm based in Colombia
 *   🖥️  See my portfolio at [https://www.linkedin.com/in/daniel-theran/](http://www.linkedin.com/in/daniel-theran/)
 *   ✉️  You can contact me at [dtheran1.0@gmail.com](mailto:dtheran1.0@gmail.com)
-*   🧠  I'm learning English### Skills
+*   🧠  I'm learning English
+
+### Skills
 
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
