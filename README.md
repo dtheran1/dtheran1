@@ -7,7 +7,7 @@ Fronted Developer
 Hi I'm Daniel, Frontend developer with experience in developing multiple projects focused on UI/UX, using different technologies such as: Javascript, HTML, Css, libraries like VueJs, ReactJs and a bit of Angular. Styles and layout on Tailwindcss, Bootstrap and Material; I have management in the various technologies that are innovating every day for the development of projects from scratch.
 
 *   🌍  I'm based in Colombia
-*   🖥️  See my portfolio at [https://www.linkedin.com/in/daniel-theran/](http://www.linkedin.com/in/daniel-theran/)
+*   🖥️  See my LinkedIn at [https://www.linkedin.com/in/daniel-theran/](http://www.linkedin.com/in/daniel-theran/)
 *   ✉️  You can contact me at [dtheran1.0@gmail.com](mailto:dtheran1.0@gmail.com)
 *   🧠  I'm learning English
 
