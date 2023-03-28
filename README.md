@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Theran
 ==============================
 
-Fronted Developer
+Frontend Developer
 -----------------
 
 Hi I'm Daniel, Frontend developer with experience in developing multiple projects focused on UI/UX, using different technologies such as: Javascript, HTML, Css, libraries like VueJs, ReactJs and a bit of Angular. Styles and layout on Tailwindcss, Bootstrap and Material; I have management in the various technologies that are innovating every day for the development of projects from scratch.
