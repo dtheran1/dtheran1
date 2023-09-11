@@ -4,7 +4,13 @@ Hi 👋 My name is Daniel Theran
 Frontend Developer
 -----------------
 
-Hi I'm Daniel, Frontend developer with experience in developing multiple projects focused on UI/UX, using different technologies such as: Javascript, HTML, Css, libraries like VueJs, ReactJs and a bit of Angular. Styles and layout on Tailwindcss, Bootstrap and Material; I have management in the various technologies that are innovating every day for the development of projects from scratch.
+I'm a Software Developer who has experience with Es6, Typescript, RxJS, Angular 2, Vuejs, NodeJs, Express, PostgreSQL and Sequelize.
+
+Applying best practices and clean coding is my passion.
+
+I love what I do, sharing what I learn and having discussions.
+
+Do u have any questions? Just send me a message!
 
 *   🌍  I'm based in Colombia
 *   🖥️  See my LinkedIn at [https://www.linkedin.com/in/daniel-theran/](http://www.linkedin.com/in/daniel-theran/)
